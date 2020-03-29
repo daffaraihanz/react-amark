@@ -18,6 +18,7 @@ class Jumbotron extends Component {
                             <p className="wow zoomIn">Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit. Vivamus et neque at ante mattis sodales.</p>
                             <div className="wow pulse">
                                 <a className="learn-more" href="#">Learn more</a>
+                                <img className="dots" src={IMAGES.dots} alt=""/>
                             </div>
                         </div>
                         <img className="headline img-fluid wow slideInRight" src={IMAGES.headlineImg} alt="" />

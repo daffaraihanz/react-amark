@@ -9,6 +9,8 @@ const images = {
     art5: require('../assets/img/art5.png'),
     art6: require('../assets/img/art6.png'),
     contact: require('../assets/img/contact.png'),
+    arrLeft: require('../assets/img/arrowleft.svg'),
+    dots: require('../assets/img/dots.svg'),
 };
 
 export default images;

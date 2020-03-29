@@ -16,3 +16,17 @@
 .how h1 {
     font-weight: bold;
 }
+
+@media screen and (max-width: 369px) {
+
+    .how h1{
+        font-size: 30px;
+    }
+
+    .how p{
+        font-size: 14px;
+        line-height: 30px;
+
+    }
+
+}

@@ -1,28 +1,39 @@
 .contact {
+    position: relative;
     font-family: 'Nunito';
-    padding: 73px 0 88px 0;
+    padding: 72px 0 88px 0;
 }
 
 .contact h2 {
     font-weight: bold;
 }
 
+input.form-control{
+    /* padding-left: 0; */
+    border: solid 2px #ECE2CC;
+    height: 64px;
+    margin-top: 16px;
+}
+
+label{
+    color: white;
+}
+
 input {
-    border-top: none !important;
+    /* border-top: none !important;
     border-left: none !important;
     border-right: none !important;
-    border-radius: 0 !important;
+    border-radius: 0 !important; */
 }
 
 .form-control:focus {
     border-color: inherit;
     -webkit-box-shadow: none;
     box-shadow: none;
+    border: #F9B623 2px solid;
 }
 
 .xaxa {
-    background: white;
-    padding: 40px 37px;
 }
 
 .sumbit {
@@ -52,7 +63,12 @@ input {
 
 .contact img {
     position: absolute;
+    bottom: 0;
     left: 0;
+}
+
+.nena{
+    /* position: relative; */
 }
 
 .contact h2 {
@@ -67,9 +83,16 @@ input {
     margin: 47px 0 49px 0;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 1199px) {
     .contact-img {
         filter: brightness(60%);
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    .contact-img {
+        display: none;
     }
 
 }

@@ -8,6 +8,14 @@
     transition: .3s;
 }
 
+.jumbotronz .dots{
+    position: absolute;
+    left: 0;
+    z-index: -1;
+    /* top: 100px; */
+    bottom: -50px;
+}
+
 .learn-more:hover {
     background: rgb(212, 148, 8);
     transition: .3s;
@@ -102,5 +110,12 @@
 @media screen and (max-width: 546px) {
     .jumbotronz .lala {
         background: none !important;
+    }
+}
+
+@media screen and (max-width: 369px) {
+        .jumbotronz h1 {
+        line-height: 50px;
+        font-size: 40px;
     }
 }
