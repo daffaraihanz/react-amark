@@ -1,0 +1,18 @@
+.how p {
+    font-size: 18px;
+    line-height: 36px;
+    /* or 200% */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.how {
+    margin-bottom: 90px;
+    font-family: "Nunito";
+}
+
+.how h1 {
+    font-weight: bold;
+}

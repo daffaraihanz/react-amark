@@ -1,0 +1,34 @@
+.mb-6 {
+    margin-bottom: 120px;
+}
+
+.bg-up {
+    z-index: -1;
+    top: -45px;
+    right: -20px;
+    position: absolute;
+    width: 365px;
+    height: 305px;
+    background: rgba(105, 124, 55, 0.2);
+}
+
+.bg-down {
+    z-index: -1;
+    bottom: -28px;
+    left: -18px;
+    position: absolute;
+    width: 365px;
+    height: 305px;
+    border: 1px solid #697C37;
+}
+
+.fafa {
+    /* background: green; */
+}
+
+@media screen and (max-width: 991px) {
+    .img-down {
+        flex-direction: column-reverse;
+    }
+
+}

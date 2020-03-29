@@ -1,0 +1,87 @@
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1250px;
+    }
+}
+
+nav {
+    z-index: 9999;
+    padding-top: 27px !important;
+    font-family: 'Nunito';
+}
+
+nav .get-started {
+    font-weight: bold;
+    color: #F9B623;
+    padding: 16px 32px;
+    border: solid 1px #F9B623;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+nav .get-started:hover {
+    background: #F9B623;
+    transition: .3s;
+    color: white;
+}
+
+nav .active .nav-link {
+    color: #F9B623 !important;
+    font-weight: bold;
+}
+
+nav .hvr {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.75) !important;
+}
+
+/* nav .hvr .nav-link::after {} */
+
+nav .hvr .nav-link:hover::after {
+    content: '';
+    display: block;
+    border-bottom: #F9B623 2px solid;
+    width: 50%;
+    margin: auto;
+    padding-top: 5px;
+    margin-bottom: -7px;
+}
+
+nav .hvr .nav-link:hover {
+    color: #F9B623 !important;
+}
+
+nav .nav-item {
+    margin-right: 40px;
+}
+
+@media screen and (max-width: 991px) {
+    nav {
+        background: white;
+    }
+
+    nav .hvr .nav-link:hover::after {
+        content: '';
+        display: none;
+        border-bottom: #F9B623 2px solid;
+        width: 50%;
+        margin: auto;
+        padding-top: 5px;
+        margin-bottom: -7px;
+    }
+
+    nav .get-started {
+        font-weight: bold;
+        color: #F9B623;
+        padding: 0;
+        border: none;
+        border-radius: 10px;
+        transition: .3s;
+    }
+
+    nav .get-started:hover {
+        background: none;
+        transition: .3s;
+        color: #F9B623;
+    }
+}

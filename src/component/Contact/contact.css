@@ -1,0 +1,75 @@
+.contact {
+    font-family: 'Nunito';
+    padding: 73px 0 88px 0;
+}
+
+.contact h2 {
+    font-weight: bold;
+}
+
+input {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0 !important;
+}
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.xaxa {
+    background: white;
+    padding: 40px 37px;
+}
+
+.sumbit {
+    text-align: left;
+    text-decoration: none !important;
+    background: #F9B623;
+    font-weight: bold;
+    color: #fff;
+    padding: 16px 32px;
+    border: solid 1px #F9B623;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.sumbit:hover {
+    background: rgb(212, 148, 8);
+    transition: .3s;
+}
+
+.sumbit:hover {
+    color: #fff;
+}
+
+.contact {
+    background: #697C37;
+}
+
+.contact img {
+    position: absolute;
+    left: 0;
+}
+
+.contact h2 {
+    font-size: 40px;
+    color: #fff;
+}
+
+.contact p {
+    font-size: 16px;
+    line-height: 32px;
+    color: white;
+    margin: 47px 0 49px 0;
+}
+
+@media screen and (max-width: 991px) {
+    .contact-img {
+        filter: brightness(60%);
+    }
+
+}
