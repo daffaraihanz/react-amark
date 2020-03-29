@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/react-amark/static/css/main.69519a14.chunk.css",
-    "main.js": "/react-amark/static/js/main.90aea38f.chunk.js",
-    "main.js.map": "/react-amark/static/js/main.90aea38f.chunk.js.map",
+    "main.css": "/react-amark/static/css/main.d3e7d653.chunk.css",
+    "main.js": "/react-amark/static/js/main.4e65a45b.chunk.js",
+    "main.js.map": "/react-amark/static/js/main.4e65a45b.chunk.js.map",
     "runtime-main.js": "/react-amark/static/js/runtime-main.671ee112.js",
     "runtime-main.js.map": "/react-amark/static/js/runtime-main.671ee112.js.map",
     "static/css/2.de424728.chunk.css": "/react-amark/static/css/2.de424728.chunk.css",
     "static/js/2.d9f64fd6.chunk.js": "/react-amark/static/js/2.d9f64fd6.chunk.js",
     "static/js/2.d9f64fd6.chunk.js.map": "/react-amark/static/js/2.d9f64fd6.chunk.js.map",
     "index.html": "/react-amark/index.html",
-    "precache-manifest.7783b4a3cc192630ec288ed89dd104fd.js": "/react-amark/precache-manifest.7783b4a3cc192630ec288ed89dd104fd.js",
+    "precache-manifest.53b4b57d56c51601b96d20eb5d06af32.js": "/react-amark/precache-manifest.53b4b57d56c51601b96d20eb5d06af32.js",
     "service-worker.js": "/react-amark/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/react-amark/static/css/2.de424728.chunk.css.map",
-    "static/css/main.69519a14.chunk.css.map": "/react-amark/static/css/main.69519a14.chunk.css.map",
+    "static/css/main.d3e7d653.chunk.css.map": "/react-amark/static/css/main.d3e7d653.chunk.css.map",
     "static/js/2.d9f64fd6.chunk.js.LICENSE.txt": "/react-amark/static/js/2.d9f64fd6.chunk.js.LICENSE.txt",
     "static/media/AMARK.svg": "/react-amark/static/media/AMARK.16aba5e0.svg",
+    "static/media/arrowleft.svg": "/react-amark/static/media/arrowleft.1e667092.svg",
     "static/media/art1.png": "/react-amark/static/media/art1.7442b640.png",
-    "static/media/art2.png": "/react-amark/static/media/art2.0a57f614.png",
+    "static/media/art2.png": "/react-amark/static/media/art2.4e232732.png",
     "static/media/art3.png": "/react-amark/static/media/art3.716afeda.png",
     "static/media/art4.png": "/react-amark/static/media/art4.8f999fd8.png",
     "static/media/art5.png": "/react-amark/static/media/art5.581132e7.png",
     "static/media/art6.png": "/react-amark/static/media/art6.592f2e0a.png",
-    "static/media/contact.png": "/react-amark/static/media/contact.8b22cb65.png",
+    "static/media/contact.png": "/react-amark/static/media/contact.cba10ea2.png",
+    "static/media/dots.svg": "/react-amark/static/media/dots.59c44b1e.svg",
     "static/media/headline-img.png": "/react-amark/static/media/headline-img.4d8ea070.png",
     "static/media/logo.svg": "/react-amark/static/media/logo.5d5d9eef.svg"
   },
@@ -29,7 +31,7 @@
     "static/js/runtime-main.671ee112.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.d9f64fd6.chunk.js",
-    "static/css/main.69519a14.chunk.css",
-    "static/js/main.90aea38f.chunk.js"
+    "static/css/main.d3e7d653.chunk.css",
+    "static/js/main.4e65a45b.chunk.js"
   ]
 }

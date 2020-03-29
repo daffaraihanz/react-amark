@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "996b57f7508ca086dd56350713859cc6",
+    "revision": "218f5eb20b938b3a21ad94d222c7adf4",
     "url": "/react-amark/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-amark/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "bf40ca8c8a9dbe507df4",
-    "url": "/react-amark/static/css/main.69519a14.chunk.css"
+    "revision": "1ce2da484b4a36b1f5ba",
+    "url": "/react-amark/static/css/main.d3e7d653.chunk.css"
   },
   {
     "revision": "38d31c9bfc3f18286193",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-amark/static/js/2.d9f64fd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf40ca8c8a9dbe507df4",
-    "url": "/react-amark/static/js/main.90aea38f.chunk.js"
+    "revision": "1ce2da484b4a36b1f5ba",
+    "url": "/react-amark/static/js/main.4e65a45b.chunk.js"
   },
   {
     "revision": "5e198f365f9a1b45a4dd",
@@ -32,12 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-amark/static/media/AMARK.16aba5e0.svg"
   },
   {
+    "revision": "1e6670924f92307f92f5ad8574897049",
+    "url": "/react-amark/static/media/arrowleft.1e667092.svg"
+  },
+  {
     "revision": "7442b64020766a89b881ecf555ec1f1f",
     "url": "/react-amark/static/media/art1.7442b640.png"
   },
   {
-    "revision": "0a57f61428144eb5fec73a7ac0d8f89e",
-    "url": "/react-amark/static/media/art2.0a57f614.png"
+    "revision": "4e23273288ba0b3018657a016172c469",
+    "url": "/react-amark/static/media/art2.4e232732.png"
   },
   {
     "revision": "716afedae3ec6d2742f179b10eff1251",
@@ -56,8 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-amark/static/media/art6.592f2e0a.png"
   },
   {
-    "revision": "8b22cb65a1cfc0a9774c64041c3a3412",
-    "url": "/react-amark/static/media/contact.8b22cb65.png"
+    "revision": "cba10ea2a35fa70bdb6ac0db17acc604",
+    "url": "/react-amark/static/media/contact.cba10ea2.png"
+  },
+  {
+    "revision": "59c44b1eade912d0adc4b33319c96d69",
+    "url": "/react-amark/static/media/dots.59c44b1e.svg"
   },
   {
     "revision": "4d8ea070ec77010cb54449d031671a8d",
