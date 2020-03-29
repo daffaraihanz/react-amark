@@ -13,18 +13,18 @@ class Contact extends Component {
                         <p className="wow slideInLeft">Feel like contacting us? Submit your queries here <br />
                             and we will get back to you as soon as possible</p>
                     </div>
-                        <img className="wow zoomIn img-fluid contact-img" src={IMAGES.contact} alt="" />
+                        <img className="wow slideInUp img-fluid contact-img" src={IMAGES.contact} alt="" />
                         <div className="col-lg-6">
-                            <div className="div xaxa wow pulse">
+                            <div className="div xaxa">
                                 <div className="row mb-4">
                                     <div className="col-lg-6 col-sm-12">
-                                        <div className="form-group">
+                                        <div className="form-group wow slideInLeft">
                                             <label className="m-0 wow" htmlFor="">Name</label>
-                                            <input style={{borderRadius: 10}} className="inputan" type="text" className="form-control" name="" id="" />
+                                            <input style={{borderRadius: 10}} className="inputan " type="text" className="form-control" name="" id="" />
                                         </div>
                                     </div>
                                     <div className="col-lg-6 col-sm-12">
-                                        <div className="form-group">
+                                        <div className="form-group wow slideInLeft">
                                             <label className="m-0 wow" htmlFor="">Surname</label>
                                             <input style={{borderRadius: 10}} type="text" className="form-control" name="" id="" />
                                         </div>
@@ -32,23 +32,23 @@ class Contact extends Component {
                                 </div>
                                 <div className="row mb-4 ">
                                     <div className="col">
-                                        <div className="form-group">
+                                        <div className="form-group wow slideInLeft">
                                             <label className="m-0 wow" htmlFor="">Email Address</label>
-                                            <input style={{borderRadius: 10}} className="inputan" type="text" className="form-control" name="" id="" />
+                                            <input style={{borderRadius: 10}} className="inputan " type="text" className="form-control" name="" id="" />
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row mb-4 ">
                                     <div className="col">
-                                        <div className="form-group">
+                                        <div className="form-group wow slideInLeft">
                                             <label className="m-0 wow" htmlFor="">Telephone</label>
-                                            <input style={{borderRadius: 10}} className="inputan" type="text" className="form-control" name="" id="" />
+                                            <input style={{borderRadius: 10}} className="inputan " type="text" className="form-control" name="" id="" />
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row mb-4 ">
                                     <div className="col">
-                                        <div className="form-group">
+                                        <div className="form-group wow slideInLeft">
                                             <label className="m-0 wow" htmlFor="">Your Message</label>
                                             <textarea style={{borderRadius: 10}} class="form-control" id="exampleFormControlTextarea1" rows="8"></textarea>
                                         </div>

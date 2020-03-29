@@ -20,10 +20,10 @@ class Article extends Component {
                         <div className="col-lg-4">
                             <Content   ulDisplay="none" dot="none" title="User Friendly" panjang="214" desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et neque at ante mattis sodales. Pellentesque euismod, felis vitae maximus venenatis, ipsum turpis ultricies lorem." />
                         </div>
-                        <div className="col-lg-5 fafa">
+                        <div className="col-lg-6 fafa">
                             {/* <div className="bg-up"></div> */}
                             <img src={IMAGES.art2} alt="" className="img-fluid wow zoomIn" />
-                            <div className="bg-down wow fadeInLeftBig"></div>
+                            {/* <div className="bg-down wow fadeInLeftBig"></div> */}
                         </div>
                     </div>
                     <div className="row align-items-center mb-6">
